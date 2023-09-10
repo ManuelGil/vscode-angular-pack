@@ -1,11 +1,11 @@
 ![icon](https://raw.githubusercontent.com/ManuelGil/vscode-angular-pack/main/icon.png)
 
-# Angular Extension Pack
+# Angular/TS Extension Pack
 
 [![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-angular-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-pack)
 [![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-angular-pack)]()
 
-Angular Extension Pack
+Angular/TS Extension Pack
 
 ## Requirements
 
@@ -46,4 +46,4 @@ See also the list of [contributors](https://github.com/ManuelGil/vscode-angular-
 
 ## License
 
-Angular Extension Pack is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details.
+Angular/TS Extension Pack is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details.

@@ -1,7 +1,7 @@
 {
-  "name": "vscode-angular-pack",
-  "displayName": "Angular Extension Pack",
-  "description": "Angular Extension Pack",
+  "name": "vscode-angular-ts-pack",
+  "displayName": "Angular/TS Extension Pack",
+  "description": "Angular/TS Extension Pack",
   "version": "1.0.0",
   "icon": "icon.png",
   "license": "MIT",
