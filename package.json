@@ -1,0 +1,56 @@
+{
+  "name": "vscode-angular-pack",
+  "displayName": "Angular Extension Pack",
+  "description": "Angular Extension Pack",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "angular",
+    "extension-pack"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-angular-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-angular-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-angular-pack/issues"
+  },
+  "extensionPack": [
+    "angular.ng-template",
+    "johnpapa.angular2",
+    "steoates.autoimport",
+    "aaron-bond.better-comments",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "shardulm94.trailing-spaces",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "pmneo.tsimporter",
+    "wix.vscode-import-cost",
+    "stringham.move-ts",
+    "lucono.karma-test-explorer",
+    "davidanson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one"
+  ]
+}
