@@ -2,7 +2,7 @@
 
 # Angular/TS Extension Pack
 
-[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-angular-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-pack)
+[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-angular-ts-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-ts-pack)
 [![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-angular-pack)]()
 
 Angular/TS Extension Pack
