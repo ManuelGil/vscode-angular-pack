@@ -1,11 +1,9 @@
-![icon](https://raw.githubusercontent.com/ManuelGil/vscode-angular-pack/main/icon.png)
-
 # Angular Essential Extension Pack
 
 [![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-angular-ts-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-ts-pack)
 [![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-angular-pack)]()
 
-Angular & TypeScript Essential Extension Pack
+This extension pack for Visual Studio Code adds extensions that are amazingly useful for Angular development.
 
 ## Requirements
 
@@ -16,6 +14,7 @@ Angular & TypeScript Essential Extension Pack
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 - [Angular File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator)
+- [Rename Angular Component](https://marketplace.visualstudio.com/items?itemName=tomwhite007.rename-angular-component)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
