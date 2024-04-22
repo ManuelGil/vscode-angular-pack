@@ -15,6 +15,7 @@ This extension pack for Visual Studio Code adds extensions that are amazingly us
 - [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 - [Angular File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator)
 - [Rename Angular Component](https://marketplace.visualstudio.com/items?itemName=tomwhite007.rename-angular-component)
+- [Auto Barrel](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-auto-barrel)
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
