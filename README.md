@@ -1,7 +1,11 @@
 # Angular Essential Extension Pack
 
-[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-angular-ts-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-ts-pack)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-angular-pack)]()
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-angular-ts-pack?style=for-the-badge&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-ts-pack)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/imgildev.vscode-angular-ts-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-ts-pack)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/imgildev.vscode-angular-ts-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-ts-pack)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/imgildev.vscode-angular-ts-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-ts-pack&ssr=false#review-details)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ManuelGil/vscode-angular-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-angular-pack)
+[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-angular-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-angular-pack/blob/main/LICENSE)
 
 This extension pack for Visual Studio Code adds extensions that are amazingly useful for Angular development.
 
@@ -39,6 +43,7 @@ This extension pack for Visual Studio Code adds extensions that are amazingly us
 - [Karma Test Explorer (for Angular, Jasmine, and Mocha)](https://marketplace.visualstudio.com/items?itemName=lucono.karma-test-explorer)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
+- [JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)
 
 ## Changelog
 
